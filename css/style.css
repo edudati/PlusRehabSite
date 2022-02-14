@@ -489,6 +489,22 @@ a:focus {
   margin-right: 10px;
 }
 
+.partners_section {
+  background-color: #3fc1c9;
+}
+
+
+.partners_section .img-box img {
+  width: 100%;
+  border-radius: 25px;
+}
+
+.partners_section .heading_container h2 {
+  position: relative;
+  font-weight: bold;
+  margin-bottom: 0;
+  color:#fff;
+}
 .about_section .row {
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -497,6 +513,7 @@ a:focus {
 
 .about_section .img-box img {
   width: 100%;
+  border-radius: 25px;
 }
 
 .about_section .detail-box h3 {
@@ -553,7 +570,7 @@ a:focus {
 
 
 .shop_section {
-  background-color: #3fc1c9;
+  background-color: #fff;
 }
 
 .shop_section .heading_container {
