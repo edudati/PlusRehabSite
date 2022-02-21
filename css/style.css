@@ -587,6 +587,12 @@ a:focus {
   color: #000000;
 }
 
+.organization_section p{
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+}
+
 .organization_section b{
   font-weight: bold;
   color: #203247;
@@ -618,45 +624,8 @@ a:focus {
   text-align: justify;
 }
 
-.organization_section .detail-box a {
-  display: inline-block;
-  padding: 10px 45px;
-  background-color:#203247;
-  color: #ffffff;
-  border-radius: 0px;
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-  border: none;
-  margin-top: 15px;
-}
 
-.organization_section .detail-box a:hover {
-  background-color:#000000;
-}
 
-.organization_section .info_social {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-.organization_section .info_social a {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  color: #ffffff;
-  border-radius: 100%;
-  margin-right: 10px;
-  font-size: 24px;
-}
 
 
 
