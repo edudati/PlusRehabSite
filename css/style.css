@@ -625,13 +625,17 @@ a:focus {
 }
 
 .organization_section .detail-box a {
-  margin-top: 15px;
   color:#2e2e2e;
-  text-align: justify;
+}
+
+.organization_section .detail-box i {
+  color: #888787;
+  font-weight: lighter;
 }
 
 .organization_section .detail-box a:hover {
   color:#298c92;
+  font-weight: bolder;
 }
 
 
@@ -771,6 +775,11 @@ a:focus {
   font-weight: 600;
   font-size: 20px;
   margin-bottom: 10px;
+}
+
+.shop_section .box .detail-box a:hover {
+  color: #298c92;
+  font-weight: bold;
 }
 
 .shop_section .row .box .detail-box h6 {
