@@ -613,7 +613,7 @@ a:focus {
 }
 
 
-.organization_section .detail-box h3 {
+.organization_section .detail-box h1 {
   font-weight: bold;
   color: #203247;
 }
@@ -622,6 +622,16 @@ a:focus {
   margin-top: 15px;
   color: #000000;
   text-align: justify;
+}
+
+.organization_section .detail-box a {
+  margin-top: 15px;
+  color:#2e2e2e;
+  text-align: justify;
+}
+
+.organization_section .detail-box a:hover {
+  color:#298c92;
 }
 
 
