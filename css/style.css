@@ -585,6 +585,20 @@ a:focus {
   margin-bottom: 40px;
 }
 
+.us_section .row .embled{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 56.25%;
+}
+
+.us_section .row .embled iframe{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
 .us_section .img-box img {
   width: 150px;
   height: 150px;
